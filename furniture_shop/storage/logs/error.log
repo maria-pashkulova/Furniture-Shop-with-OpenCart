@@ -1,0 +1,10 @@
+2023-11-18 14:31:50 - PHP Unknown:  The each() function is deprecated. This message will be suppressed on further calls in C:\wamp64\www\furniture_shop\admin\model\localisation\zones.php on line 9
+2023-11-18 14:32:55 - PHP Unknown:  The each() function is deprecated. This message will be suppressed on further calls in C:\wamp64\www\furniture_shop\admin\model\localisation\zones.php on line 27
+2023-11-18 15:00:54 - PHP Unknown:  The each() function is deprecated. This message will be suppressed on further calls in C:\wamp64\www\furniture_shop\admin\model\localisation\zones.php on line 9
+2023-11-18 17:59:18 - PHP Unknown:  The each() function is deprecated. This message will be suppressed on further calls in C:\wamp64\www\furniture_shop\admin\model\localisation\zones.php on line 9
+2023-11-18 19:11:52 - PHP Unknown:  The each() function is deprecated. This message will be suppressed on further calls in C:\wamp64\www\furniture_shop\admin\model\localisation\zones.php on line 9
+2023-11-18 19:12:44 - PHP Unknown:  The each() function is deprecated. This message will be suppressed on further calls in C:\wamp64\www\furniture_shop\admin\model\localisation\zones.php on line 27
+2023-11-18 21:49:03 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp64\www\furniture_shop\system\library\mail\mail.php on line 77
+2023-11-19 14:42:07 - PHP Unknown:  The each() function is deprecated. This message will be suppressed on further calls in C:\wamp64\www\furniture_shop\admin\model\localisation\zones.php on line 9
+2023-11-19 14:44:38 - PHP Unknown:  The each() function is deprecated. This message will be suppressed on further calls in C:\wamp64\www\furniture_shop\admin\model\localisation\zones.php on line 9
+2023-11-20 7:16:10 - PHP Unknown:  The each() function is deprecated. This message will be suppressed on further calls in C:\wamp64\www\furniture_shop\admin\model\localisation\zones.php on line 9
